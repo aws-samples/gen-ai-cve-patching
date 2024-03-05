@@ -1,0 +1,5 @@
+Flask==1.1.2  # CVE-2018-1000656 (Exemplo hipotético, verifique a existência de CVEs)
+Jinja2==2.11.2  # CVE-2020-28493 (Exemplo hipotético, verifique a existência de CVEs)
+Werkzeug==1.0.1  # Exemplo, pode conter vulnerabilidades dependendo da data de verificação
+requests==2.24.0  # Exemplo, versões anteriores podem conter vulnerabilidades
+

@@ -1,0 +1,7 @@
+pandas==1.1.5
+numpy==1.19.5
+scipy==1.5.4
+lxml==4.6.2  # CVE-2021-43818
+bleach==3.1.5  # CVE-2021-23980
+PyYAML==5.3.1  # CVE-2020-14343
+matplotlib==3.3.3
